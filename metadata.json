@@ -1,0 +1,6 @@
+{
+  "name": "The Food Co. — Cinematic 3D Burger Experience",
+  "description": "An interactive, scroll-driven 3D food advertisement website for THE FOOD CO. featuring a cinematic vegetarian burger assembly, signature bites menu, and brand story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
